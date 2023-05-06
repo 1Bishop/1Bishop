@@ -13,11 +13,11 @@ I've done a bootcamp, I have my computer science degree and have been working in
 - [ ] Learn Vim
 - [ ] Rebuild Personal Website (bishop.dev)
   - [ ] Build Websites with Hugo Book
-- [ ] Set up Socials
-  - [ ] Twitch
-  - [ ] YouTube
-  - [ ] Twitter / Mastadon 
-  - [ ] Instagram
+- [x] Set up Socials
+  - [x] Twitch
+  - [x] YouTube
+  - [x] Twitter / Mastadon 
+  - [x] Instagram
 - [ ] Learn Rust
   - [ ] Read The Rust Programming Language Book
   - [ ] Read Rust for Rustatians Book
